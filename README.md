@@ -1,4 +1,4 @@
 # rockPaperScisors
-This project is to re-create the game "Rock paper scissors" with Javascript to be played in the console.
+This project is to re-create the game "Rock paper scissors" with Javascript to be played in the console at first and then on a website with proper user interface.
 
-This project will help me get better at Javascript and will later on be implemented into a website.
+This project will help me get better at Javascript.
